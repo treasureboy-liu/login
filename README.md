@@ -1,3 +1,2 @@
 # star_login
-星空登陆界面html+CSS框架
-![image](https://github.com/treasureboy-liu/login/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200104223416.png)
+网页预览 https://treasureboy-liu.github.io/login/%E6%98%9F%E7%A9%BA%E7%99%BB%E9%99%86%E7%95%8C%E9%9D%A2/index.html
